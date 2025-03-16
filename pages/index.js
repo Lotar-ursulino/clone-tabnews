@@ -10,5 +10,4 @@ function Agu(){
     return <h1>Agu, vc é a melhor coisa que aconteceu na minha vida, vc é minha filha, minha tudo, te amo muito minha filha!!!!</h1>
 }
 
-export default Home
-export {Amor, Agu}
+export {Home, Amor, Agu};
