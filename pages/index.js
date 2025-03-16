@@ -4,7 +4,6 @@ function Home(){
     var straing3 = "Filha, eu te amo muito, vc é a razão da minha vida, voce e meu tudo, amo muito vc";
     return (
       <div>
-        <h1>Home</h1>
         <p>{straing1}</p>
         <p>{straing2}</p>
         <p>{straing3}</p>
